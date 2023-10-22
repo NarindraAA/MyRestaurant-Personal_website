@@ -44,7 +44,7 @@ const Home = () => {
                         </div>
                     </div>
 
-{/*                     <div className="dateInput">
+                    {/* <div className="dateInput">
                         <label htmlFor="date">Search your date:
                         </label>
                         <div className="input flex">
@@ -75,10 +75,7 @@ const Home = () => {
                         <FaInstagram className="icon"/>
                         <FaFacebook className="icon"/>
                     </div>
-                    <div className="leftIcons">
-                        <FaListUl className="icon"/>
-                        <TbApps className="icon"/>
-                    </div>
+                    
                 </div>
 
 
