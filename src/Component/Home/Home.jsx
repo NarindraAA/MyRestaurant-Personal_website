@@ -44,13 +44,13 @@ const Home = () => {
                         </div>
                     </div>
 
-                    <div className="dateInput">
+{/*                     <div className="dateInput">
                         <label htmlFor="date">Search your date:
                         </label>
                         <div className="input flex">
                             <input type="date"/>
                         </div>
-                    </div>
+                    </div> */}
 
                     <div className="priceInput">
                         <div className="label_total flex">
